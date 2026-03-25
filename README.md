@@ -1,4 +1,4 @@
-# rhums
+# Capstone Project - A Website Managemnt System for RHU 2 Sto. Domingo, Region 5 Camarines Sur
 <h3>How to Run ??</h3>
 
 <b>Requirements</b>
